@@ -2,10 +2,20 @@ body {
   background-color: black;
 }
 
+img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 8px;
+}
+
 h1 {
   color: white;
   text-align: center;
+  font-family: "Pirata One", serif;
+  font-weight: 400;
+  font-style: normal;
 }
+
 
 p {
   font-family: verdana;
