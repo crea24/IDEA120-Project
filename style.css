@@ -4,12 +4,6 @@ body {
   background-repeat: repeat-x;
 }
 
-img {
-  max-width: 50%;
-  height: auto;
-  border-radius: 8px;
-}
-
 h1 {
   color: white;
   text-align: center;
