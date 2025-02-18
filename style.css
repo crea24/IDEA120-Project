@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  background-image: url("02redgradient.png");
+  background-image: url("image/02redgradient.png");
   background-repeat: repeat-x;
 }
 
@@ -17,4 +17,11 @@ p {
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
