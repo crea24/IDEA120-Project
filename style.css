@@ -1,7 +1,5 @@
 body {
   background-color: black;
-  background-image: url("image/02redgradient.png");
-  background-repeat: repeat-x;
 }
 
 h1 {
@@ -24,4 +22,9 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+body {
+  background-image: url("image/02redgradient.png");
+  background-repeat: repeat-x;
 }
