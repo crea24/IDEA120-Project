@@ -5,13 +5,19 @@ body {
 }
 
 h1 {
-  color: white;
+  color: red;
   text-align: center;
   font-family: "Pirata One", serif;
   font-weight: 400;
   font-style: normal;
 }
 
+h2 {
+  color: white;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 20px;
+}
 
 p1 {
   color: white
